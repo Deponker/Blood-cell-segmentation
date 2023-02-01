@@ -15,8 +15,10 @@ Figure: We have presented original blood smear image (left) and corresponding an
 ## Published Paper Link
 [Automatic segmentation of blood cells from microscopic slides: A comparative analysis](https://www.sciencedirect.com/science/article/abs/pii/S0040816621001695)
 
-## Proposed Large Segmentation Dataset Download Link
+## Proposed Large Segmentation Dataset Download Link  
+2656 images are avilable. 1328 Original blood cell images with 1328 corresponding ground truths.  
 https://drive.google.com/file/d/1nG-ra6BPAZSTsdYCvedzCo-JLD7jdH71/view?usp=share_link
+
 
 ## Citation
   ```sh@article{depto2021automatic,
@@ -32,6 +34,10 @@ https://drive.google.com/file/d/1nG-ra6BPAZSTsdYCvedzCo-JLD7jdH71/view?usp=share
 
 ## DOI
 https://doi.org/10.1016/j.tice.2021.101653
+
+
+## Codebase
+https://github.com/Deponker/Blood-cell-segmentation
 
 
 ## Algorithms implemented

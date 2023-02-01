@@ -60,4 +60,10 @@ This work requirs
 - Tensorflow: 2.3.0
 - Keras:      2.4.0
 
+## Results
+We report the best scores from our implemented models
+<img src="media/Result.png" width="70%">
+
+## License
+Distributed under the MIT License.
 
